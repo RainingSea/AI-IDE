@@ -1,0 +1,4 @@
+# 忽略 Python 自动生成的缓存目录
+**/__pycache__/
+# 忽略所有 .pyc、.pyo、.pyd、*.py[cod]
+*.py[cod]
